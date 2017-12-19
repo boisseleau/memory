@@ -1,0 +1,36 @@
+#game {
+    width: 600px;
+    margin: auto;
+}
+
+.congratulations {
+    text-align: center;
+    color: crimson;
+    font-size: 2em;
+}
+
+.congratulations button {
+    height: 35px;
+    margin-left: 10px;
+    font-size: 0.8em;
+    padding: 3px;
+}
+
+p {
+    display: inline-block;
+    border: 1px solid #000;
+    padding: 0;
+    width: 130px;
+    height: 130px;
+    margin: 5px;
+    background-color: darkcyan;
+}
+
+img {
+    width: 130px;
+    height: 130px;
+}
+
+.hidden {
+    visibility: hidden;
+}
